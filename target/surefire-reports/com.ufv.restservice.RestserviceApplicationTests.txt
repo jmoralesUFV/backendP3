@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.ufv.restservice.RestserviceApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.432 s - in com.ufv.restservice.RestserviceApplicationTests

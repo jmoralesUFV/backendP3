@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE root [
+        <!ELEMENT root (element)*>
+        <!ELEMENT element (comentarios|equipoID|ffinPrestamo|finiPrestamo|frealPrestanmo|id|userID)*>
+        <!ELEMENT comentarios (#PCDATA)>
+        <!ELEMENT equipoID (#PCDATA)>
+        <!ELEMENT ffinPrestamo (#PCDATA)>
+        <!ELEMENT finiPrestamo (#PCDATA)>
+        <!ELEMENT frealPrestanmo (#PCDATA)>
+        <!ELEMENT id (#PCDATA)>
+        <!ELEMENT userID (#PCDATA)>
+        ]>
+<root>
+    <element>
+        <comentarios>Se lo llevo rapido , incluso casi se deja las llaves del coche, a lo mejor lo devuelve antes </comentarios>
+        <equipoID>1</equipoID>
+        <ffinPrestamo>1/11/2022</ffinPrestamo>
+        <finiPrestamo>28/11/2021</finiPrestamo>
+        <frealPrestanmo>NR</frealPrestanmo>
+        <id>0</id>
+        <userID>2</userID>
+    </element>
+    <element>
+        <comentarios>Se lo llevo rapido , y vino con pasamontañas. ACTUALIZACION 2021: no creo que lo traigan de vuelta </comentarios>
+        <equipoID>0</equipoID>
+        <ffinPrestamo>1/11/2012</ffinPrestamo>
+        <finiPrestamo>10/5/2010</finiPrestamo>
+        <frealPrestanmo>NR</frealPrestanmo>
+        <id>1</id>
+        <userID>0</userID>
+    </element>
+    <element>
+        <comentarios>Rasguño en un borde, paso por seguro.</comentarios>
+        <equipoID>2</equipoID>
+        <ffinPrestamo>15/12/2019</ffinPrestamo>
+        <finiPrestamo>10/12/2019</finiPrestamo>
+        <frealPrestanmo>16/12/2012</frealPrestanmo>
+        <id>2</id>
+        <userID>5</userID>
+    </element>
+    <element>
+        <comentarios>No ha sido devuelto por fecha.</comentarios>
+        <equipoID>3</equipoID>
+        <ffinPrestamo>15/9/2020</ffinPrestamo>
+        <finiPrestamo>10/8/2020</finiPrestamo>
+        <frealPrestanmo>16/9/2020</frealPrestanmo>
+        <id>3</id>
+        <userID>7</userID>
+    </element>
+</root>
+        

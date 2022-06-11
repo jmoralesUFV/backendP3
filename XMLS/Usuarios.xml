@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE root [
+        <!ELEMENT root (element)*>
+        <!ELEMENT element (Departamento|EmailContact|Nombre|Tlf|Ubicacion|id)*>
+        <!ELEMENT Departamento (#PCDATA)>
+        <!ELEMENT EmailContact (#PCDATA)>
+        <!ELEMENT Nombre (#PCDATA)>
+        <!ELEMENT Tlf (#PCDATA)>
+        <!ELEMENT Ubicacion (#PCDATA)>
+        <!ELEMENT id (#PCDATA)>
+        ]>
+<root>
+    <element>
+        <Departamento>Drenaje de almas</Departamento>
+        <EmailContact>demetriocansalmas@hotmail.com</EmailContact>
+        <Nombre>Demetrio Cansalmas</Nombre>
+        <Tlf>654654654</Tlf>
+        <Ubicacion>Alcafrán</Ubicacion>
+        <id>0</id>
+    </element>
+    <element>
+        <Departamento>Espionaje</Departamento>
+        <EmailContact>marian23@gmail.com</EmailContact>
+        <Nombre>La vieja del visillo</Nombre>
+        <Tlf>658854131</Tlf>
+        <Ubicacion>Alcafrán</Ubicacion>
+        <id>1</id>
+    </element>
+    <element>
+        <Departamento>Linaje</Departamento>
+        <EmailContact>Noestoyloca@gmail.com</EmailContact>
+        <Nombre>Juana de Arco</Nombre>
+        <Tlf>01</Tlf>
+        <Ubicacion>Castilla</Ubicacion>
+        <id>2</id>
+    </element>
+    <element>
+        <Departamento>Idolos</Departamento>
+        <EmailContact>elmejor@gmail.com</EmailContact>
+        <Nombre>Faker </Nombre>
+        <Tlf>6663476376</Tlf>
+        <Ubicacion>korea</Ubicacion>
+        <id>3</id>
+    </element>
+    <element>
+        <Departamento>EL TIRADOR DE PAIN GAMING</Departamento>
+        <EmailContact>top1draven@gmail.com</EmailContact>
+        <Nombre>Juan Carlos Camino </Nombre>
+        <Tlf>6566236</Tlf>
+        <Ubicacion>La grita del Invocador</Ubicacion>
+        <id>4</id>
+    </element>
+    <element>
+        <Departamento>Agricultura y comercio.</Departamento>
+        <EmailContact>brerengariojuasjuas@gmail.com</EmailContact>
+        <Nombre>Berengario el Trastorista</Nombre>
+        <Tlf>987654321</Tlf>
+        <Ubicacion>Su tractor</Ubicacion>
+        <id>5</id>
+    </element>
+    <element>
+        <Departamento>Acosamiento de camioneros de la M30.</Departamento>
+        <EmailContact>bar_tolitos@gmail.com</EmailContact>
+        <Nombre>Bartolomé Gómez Martín</Nombre>
+        <Tlf>976356498</Tlf>
+        <Ubicacion>Plató de lo que necesitas es amor</Ubicacion>
+        <id>6</id>
+    </element>
+    <element>
+        <Departamento>Todos, ocupa mas de uno.</Departamento>
+        <EmailContact>Ibai@gmail.com</EmailContact>
+        <Nombre>Ibai Llanos Garatea</Nombre>
+        <Tlf>536253</Tlf>
+        <Ubicacion>Es la via lactea seguramente</Ubicacion>
+        <id>7</id>
+    </element>
+    <element>
+        <Departamento>Reparto de alpargatas.</Departamento>
+        <EmailContact>latiacati@gmail.com</EmailContact>
+        <Nombre>Tía Catenaria</Nombre>
+        <Tlf>142549276</Tlf>
+        <Ubicacion>Casa del Cura de Alcafrán.</Ubicacion>
+        <id>8</id>
+    </element>
+</root>
